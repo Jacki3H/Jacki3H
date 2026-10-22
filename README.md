@@ -1,11 +1,12 @@
 ## Greetings random human!
 
-Currently I'm taking a web design class, so right now all of my stuff on Github is from that.
-Honestly, I don't have much to say right now.
+Currently, I'm taking a web design class, so right now all of my stuff on Github is from that.
 
-I know enough C++ to code a plant pot that yells at you to water it when you walk by, getting meaner and snarkier the longer you wait to water it. That project is currently unfinished because of mechanical issues, and I hope to fix it but it's not my priority right now so it might be a while. Maybe I'll upload that code to Github! 
+I know enough C++ to code a plant pot that yells at you to water it when you walk by, getting meaner and snarkier the longer you wait to water it. That project is currently unfinished because of mechanical issues, and I hope to fix it, but it's not my priority right now so it might be a while. Maybe I'll upload that code to Github! 
 
 I'm learning HTML, CSS, and later on JavaScript. 
+
+I don't have much else to say because I'm not currently working on any big projects.
 
 
 
