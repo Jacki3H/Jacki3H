@@ -1,8 +1,17 @@
-## Hi there 👋
+## Greetings random human!
+
+Currently I'm taking a web design class, so right now all of my stuff on Github is from that.
+Honestly I don't have much to say right now
+
+I know enough C++ to code a plant pot that yells at you to water it when you walk by, getting meaner and snarkier the longer you wait to water it. 
+
+I'm learning HTML, CSS, and later on JavaScript. 
+
+Right now I'm working on updating my personal website but that's not my main priority right now in my free time, so progress is slow.
+
 
 <!--
-**Jacki3H/Jacki3H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Jacki3H/Jacki3H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
