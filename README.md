@@ -1,13 +1,12 @@
 ## Greetings random human!
 
 Currently I'm taking a web design class, so right now all of my stuff on Github is from that.
-Honestly I don't have much to say right now
+Honestly, I don't have much to say right now.
 
-I know enough C++ to code a plant pot that yells at you to water it when you walk by, getting meaner and snarkier the longer you wait to water it. 
+I know enough C++ to code a plant pot that yells at you to water it when you walk by, getting meaner and snarkier the longer you wait to water it. That project is currently unfinished because of mechanical issues, and I hope to fix it but it's not my priority right now so it might be a while. Maybe I'll upload that code to Github! 
 
 I'm learning HTML, CSS, and later on JavaScript. 
 
-Right now I'm working on updating my personal website but that's not my main priority right now in my free time, so progress is slow.
 
 
 <!--
